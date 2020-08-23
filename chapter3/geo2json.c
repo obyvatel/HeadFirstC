@@ -15,20 +15,20 @@ int main()
 		else
 			started = 1;
 		
-		// проверка корректности входных данных
+		// РїСЂРѕРІРµСЂРєР° РєРѕСЂСЂРµРєС‚РЅРѕСЃС‚Рё РІС…РѕРґРЅС‹С… РґР°РЅРЅС‹С…
 		if ((latitude < -90.0) || (latitude > 90.0))
 		{
-			fprintf(stderr, "Неправильная широта: %f\n", latitude);
+			fprintf(stderr, "РќРµРїСЂР°РІРёР»СЊРЅР°СЏ С€РёСЂРѕС‚Р°: %f\n", latitude);
 			return 2;
 		}
 		
 		if ((longitude < -180.0) || (longitude > 180.0))
 		{
-			fprintf(stderr, "Неправильная долгота: %f\n", longitude);
+			fprintf(stderr, "РќРµРїСЂР°РІРёР»СЊРЅР°СЏ РґРѕР»РіРѕС‚Р°: %f\n", longitude);
 			return 2;
 		}
 		
-		// вывод данных
+		// РІС‹РІРѕРґ РґР°РЅРЅС‹С…
 		printf ("{latitude: %f, longitude: %f, info: '%s'}", latitude, longitude, info);
 	}
 	

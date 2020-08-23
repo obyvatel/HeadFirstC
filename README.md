@@ -14,7 +14,7 @@ echo %errorlevel%
 Пример запуска програмы:
 geo2json.exe < gpsdata.csv > output.json 2> error.log
 - <  - Поток данных stdin. Ввод данных из файла gpsdata.csv.
-- >  - Поток данных stdout. Вывод данных в файл output.json.
+- \>  - Поток данных stdout. Вывод данных в файл output.json.
 - 2> - Поток ошибок stderr. Вывод ошибок в файл error.log.
 
 Пример одновременного запуска двух программ:

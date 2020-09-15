@@ -1,0 +1,1 @@
+gcc newshound.c -o newshound && newshound trump

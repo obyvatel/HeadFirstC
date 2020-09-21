@@ -1,1 +1,0 @@
-gcc greetings.c -o greetings && ./greetings

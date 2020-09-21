@@ -1,1 +1,0 @@
-gcc mathmaster.c -o mathmaster && ./mathmaster

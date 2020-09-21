@@ -1,1 +1,0 @@
-gcc newsopener.c -o newsopener && ./newsopener 'covid'

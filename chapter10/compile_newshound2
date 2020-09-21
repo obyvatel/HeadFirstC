@@ -1,0 +1,1 @@
+gcc newshound2.c -o newshound2 && ./newshound2 '19'

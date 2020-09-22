@@ -1,0 +1,1 @@
+gcc adviceserver.c -o adviceserver && ./adviceserver

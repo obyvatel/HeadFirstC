@@ -1,0 +1,1 @@
+gcc beerfixedstrategy1.c -lpthread -o beerfixedstrategy1 && ./beerfixedstrategy1

@@ -1,0 +1,1 @@
+gcc.exe -Wall hello.c -o hello -lallegro -lallegro_font && hello

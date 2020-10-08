@@ -1,0 +1,1 @@
+gcc.exe -Wall 5_sound.c -o 5_sound -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec && 5_sound

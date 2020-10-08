@@ -1,0 +1,1 @@
+gcc.exe -Wall 4_inputs.c -o 4_inputs -lallegro -lallegro_font -lallegro_primitives && 4_inputs

@@ -1,1 +1,0 @@
-gcc.exe -Wall 2_image.c -o 2_image -lallegro -lallegro_font -lallegro_image -lallegro_primitives && 2_image

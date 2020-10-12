@@ -1,1 +1,0 @@
-gcc.exe -Wall 3_bounce.c -o 3_bounce -lallegro -lallegro_font -lallegro_image -lallegro_primitives && 3_bounce

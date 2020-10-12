@@ -1,1 +1,1 @@
-Порядок работы с библиотекой Allegro в папке lab3_Allegro
+Порядок работы с библиотекой Allegro в папке HeadFirstC/lab3_Allegro

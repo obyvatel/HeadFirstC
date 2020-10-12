@@ -1,1 +1,0 @@
-gcc.exe -Wall 6_game.c -o 6_game -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_image && 6_game

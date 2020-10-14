@@ -1,1 +1,0 @@
-gcc.exe -Wall -Wextra -g cgame.c -o cgame -lallegro -lallegro_font -lallegro_primitives && cgame
